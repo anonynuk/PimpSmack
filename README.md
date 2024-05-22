@@ -1,6 +1,6 @@
 This is my updated version of SMB Brute by EbolaMan so kudos to him for the original work
 
-...On that note:  I noticed, when using the original version, I as getting nothing but
+...On that note:  I noticed, when using the original version, I was getting nothing but
 failures.  I decided to take a quick looksy at the code and I'd edit a line here, there...
 and well, as most of you i'm sure can relate to, led to basically a complete re-make of
 SMB Brute.
